@@ -13,3 +13,8 @@ I like him because his music sounds very **strong** and emotional, especially in
 1.Hans Zimmer
 2.Thaman 
 3.Krem
+
+### Favorite Books
+* Atomic Habits
+- The Alchemist
+- Rich Dad Poor Dad
