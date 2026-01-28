@@ -41,3 +41,15 @@ interest me because of their culture, history, and unique experiences they offer
 | Rome         | Ancient architecture and landmarks   | 4,800 miles       | 2300              |
 
 
+----
+
+## Favorite Quotes
+
+> "Love is the one thing that transcends time and space."
+
+*Hans Zimmer*
+
+> "We used to look up at the sky and wonder at our place in the stars."
+
+*Hans Zimmer*
+
