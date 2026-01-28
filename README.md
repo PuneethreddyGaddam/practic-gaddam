@@ -41,7 +41,7 @@ interest me because of their culture, history, and unique experiences they offer
 
 ## Favorite Quotes
 
-> "Love is the one thing that transcends time and space."
+>  "Love is the one thing that transcends time and space." 
 
 *Hans Zimmer*
 
@@ -49,3 +49,40 @@ interest me because of their culture, history, and unique experiences they offer
 
 *Hans Zimmer*
 
+-----
+
+### Code Fencing
+
+This code snippet demonstrates an immutable `User` class written in Dart. The class uses `final` variables, which means the values cannot be changed once the object is created. To update values, the `copyWith` method creates a new `User` object with modified data. The equality operator and `hashCode` are overridden so that objects are compared based on their values.
+
+
+```dart
+@immutable
+class User {
+    final String name;
+    final int age;
+
+    User(this.name, this.age);
+
+    User copyWith({
+        String? name,
+        int? age,
+  }) {
+    return User(
+    name ?? this.name,
+    age ?? this.age,
+    );
+  }
+  @override
+  bool operator ==(Object o) {
+    if (identical(this, o)) return true;
+
+    return o is User && o.name == name && o.age == age;
+  }
+
+  @override
+  int get hashCode => name.hashCode ^ age.hashCode;
+}
+
+
+### Link of snippet source : https://dart.pieces.cloud/?p=1a63488211
