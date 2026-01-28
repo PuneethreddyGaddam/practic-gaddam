@@ -18,3 +18,9 @@ I like him because his music sounds very **strong** and emotional, especially in
 - Atomic Habits
 - The Alchemist
 - Rich Dad Poor Dad
+
+----
+
+[Read about my favorite place to visit: Bali](MyLocation.md)
+\
+
