@@ -15,6 +15,6 @@ I like him because his music sounds very **strong** and emotional, especially in
 3.Krem
 
 ### Favorite Books
-* Atomic Habits
+- Atomic Habits
 - The Alchemist
 - Rich Dad Poor Dad
